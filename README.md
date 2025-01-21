@@ -1,4 +1,4 @@
-Image Processing 
+#Image Processing 
 
 Welcome to the Image Processing , a versatile project built in Python that utilizes powerful libraries like OpenCV, TensorFlow, and NumPy. This toolkit offers a variety of tools and features for tasks such as image color detection, background removal, edge detection, object detection, and photo editing.
 
